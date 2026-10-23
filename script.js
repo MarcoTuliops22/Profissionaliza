@@ -364,7 +364,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function buildWhatsAppMessage({ source, serviceName, servicePrice, clientDescription }) {
         const lines = [
-            'Olá! Novo contato pelo site Profissionaliza.',
+            'Olá! Novo contato pelo site MT INFORMÁTICA.',
             '',
             `*Origem:* ${source}`
         ];
